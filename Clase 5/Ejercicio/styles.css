@@ -55,6 +55,10 @@ nav{
             color: black;
         }
 
+        .nav-links a:active{
+            text-decoration: underline;
+        }
+
 
 
 /*carrusel*/

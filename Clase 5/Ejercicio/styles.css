@@ -6,7 +6,7 @@ body{
 }
 
 nav{
-    background-color: rgb(33, 96, 179);
+    background-color: #2E8B57;
     color: azure;
     padding: 30px;
 }
@@ -89,6 +89,10 @@ nav{
         border-radius: 10px;
 }
 
+#imagen-fondo-unahur{
+    opacity: 80%
+}
+
 
 
 /*cartas*/
@@ -109,3 +113,8 @@ nav{
 .card{
     margin: 25px;
 }
+
+    #boton-inscripcion{
+        background-color: #2E8B57;
+        border: #2E8B57;
+    }
